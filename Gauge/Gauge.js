@@ -4,8 +4,8 @@
 		<style>
 		:host {
 			border-radius: 10px;
-			border-width: 2px;
-			border-color: black;
+			border-width: 0px;
+			border-color: white;
 			border-style: solid;
 			display: block;
 		}
