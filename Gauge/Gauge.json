@@ -1,32 +1,32 @@
 {
-	"id": "com.demo.gauge2",
+	"id": "com.demo.gauge",
 	"version": "1.0.1",
-	"name": "Demo Gauge 2",
+	"name": "Demo Gauge",
 	"description": "A gauge demo",
-	"newInstancePrefix": "Gauge2",
-	"icon": "https://raw.githubusercontent.com/ferrygun/SAPCustomWidget/master/box/icon.png",
+	"newInstancePrefix": "Gauge",
+	"icon": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-demo-gauge",
-			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/box/box.js",
+			"tag": "gauge",
+			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/Gauge.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-gauge-sps",
-			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/box/box_sps.js",
+			"tag": "gauge-styling",
+			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/Gauge_styling.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-demo-box-bps",
-			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/box/box_bps.js",
+			"tag": "gauge-builder",
+			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/Gauge_builder.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
