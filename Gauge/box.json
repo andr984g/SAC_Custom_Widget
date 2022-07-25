@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://andreasoe.pythonanywhere.com/box.js",
+			"url": "https://raw.githubusercontent.com/andr984g/SAC_Custom_Widget/main/Gauge/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://andreasoe.pythonanywhere.com/box_sps.js",
+			"url": "https://raw.githubusercontent.com/andr984g/SAC_Custom_Widget/main/Gauge/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://andreasoe.pythonanywhere.com/box_bps.js",
+			"url": "https://raw.githubusercontent.com/andr984g/SAC_Custom_Widget/main/Gauge/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
