@@ -1,9 +1,9 @@
 {
-	"id": "com.demo.gauge",
+	"id": "com.demo.gauge2",
 	"version": "1.0.1",
-	"name": "Demo Gauge",
+	"name": "Demo Gauge 2",
 	"description": "A gauge demo",
-	"newInstancePrefix": "Gauge",
+	"newInstancePrefix": "Gauge2",
 	"icon": "https://raw.githubusercontent.com/ferrygun/SAPCustomWidget/master/box/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://raw.githubusercontent.com/andr984g/SAC_Custom_Widget/main/Gauge/box/box.js",
+			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://raw.githubusercontent.com/andr984g/SAC_Custom_Widget/main/Gauge/box/box_sps.js",
+			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://raw.githubusercontent.com/andr984g/SAC_Custom_Widget/main/Gauge/box/box_bps.js",
+			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
