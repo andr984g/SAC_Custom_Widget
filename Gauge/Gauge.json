@@ -11,21 +11,21 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "gauge",
+			"tag": "demo-gauge",
 			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/Gauge.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
-			"tag": "gauge-styling",
+			"tag": "demo-gauge-styling",
 			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/Gauge_styling.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "gauge-builder",
+			"tag": "demo-gauge-builder",
 			"url": "https://andr984g.github.io/SAC_Custom_Widget/Gauge/Gauge_builder.js",
 			"integrity": "",
 			"ignoreIntegrity": true
