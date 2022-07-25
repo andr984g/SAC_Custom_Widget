@@ -43,5 +43,5 @@
 		}
 	}
 
-customElements.define("demo-gauge-styling", BoxSps);
+customElements.define("com-demo-gauge-styling", BoxSps);
 })();
